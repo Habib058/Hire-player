@@ -1,0 +1,14 @@
+.players{
+    display: flex;
+    margin: 10px;
+}
+.playerSection{
+    width: 80%;
+    border-right: 1px solid gray;
+    margin-right: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.bookingSection{
+    margin: 5px;
+}

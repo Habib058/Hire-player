@@ -1,0 +1,12 @@
+.booking{
+    background-color: lightsalmon;
+    height: 500px;
+    width: 300px;
+    padding-top: 30px;
+    text-align: center;
+    position: fixed;
+}
+.playerAdded h5{
+    border-bottom: 1px solid gray;
+    margin:0 50px
+}

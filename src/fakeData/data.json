@@ -1,0 +1,151 @@
+[{
+    "id": 1,
+    "name": "Virat Kohli",
+    "email": "mbantham0@cocolog-nifty.com",
+    "skill":"batsman",
+    "gender": "male",
+    "salary": "50000",
+    "country": "India",
+    "position": "3",
+    "img": "https://www.cricket.com.au/-/media/Players/Men/International/India/Virat-Kohli-T20I2020.ashx"
+  }, {
+    "id": 2,
+    "name": "MS Dhoni",
+    "email": "gcowndley1@prlog.org",
+    "skill":"batsman",
+    "gender": "Male",
+    "salary": "35000",
+    "country": "India",
+    "position": "5",
+    "img": "https://www.cricket.com.au/-/media/Players/Men/International/India/ODIWC19/MS-Dhoni-CWC19.ashx?h=548"
+  }, {
+    "id": 3,
+    "name": "Rohit Sharma",
+    "email": "gillsley2@wikia.com",
+    "skill":"batsman",
+    "gender": "male",
+    "salary": "40000",
+    "country": "india",
+    "position": "1",
+    "img": "https://pngimage.net/wp-content/uploads/2018/06/rohit-sharma-png-2.png"
+  }, {
+    "id": 4,
+    "name": "AB de-villers",
+    "email": "ddufaire3@webs.com",
+    "skill":"batsman",
+    "gender": "male",
+    "salary": "30000",
+    "country": "South Africa",
+    "position": "4",
+    "img": "https://www.cricket.com.au/-/media/Players/Men/International/South%20Africa/AB-de-Villiers-CT17.ashx"
+  }, {
+    "id": 5,
+    "name": "De-cock",
+    "email": "alivens4@zimbio.com",
+    "skill":"batsman",
+    "gender": "male",
+    "salary": "25000",
+    "country": "South Africa",
+    "position": "1",
+    "img": "https://www.cricket.com.au/-/media/Players/Men/International/South%20Africa/Quinton-de-Kock-CWC19.ashx"
+  }, {
+    "id": 6,
+    "name": "KL Rahul",
+    "email": "vgutteridge5@soundcloud.com",
+    "skill":"batsman",
+    "gender": "male",
+    "salary": "32000",
+    "country": "india",
+    "position": "2",
+    "img": "https://i.pinimg.com/originals/48/37/af/4837af17a9f1bf260a2a1065332d9cd1.png"
+  }, {
+    "id": 7,
+    "name": "Sakib Al Hasan",
+    "email": "ruridge6@barnesandnoble.com",
+    "skill":"Al-rounder",
+    "gender": "male",
+    "salary": "28000",
+    "country": "Bangladesh",
+    "position": "6",
+    "img": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Shakib-Al-Hasan-CWC19.ashx"
+  }, {
+    "id": 8,
+    "name": "trent bolt",
+    "email": "hleyshon7@google.com",
+    "skill":"bowler",
+    "gender": "male",
+    "salary": "31000",
+    "country": "New zealand",
+    "position": "7",
+    "img": "https://storage.googleapis.com/cricketimages/Players/9M.png"
+  }, {
+    "id": 9,
+    "name": "Bhumrah",
+    "email": "bcartmail8@163.com",
+    "skill":"bowler",
+    "gender": "male",
+    "salary": "26000",
+    "country": "India",
+    "position": "8",
+    "img": "https://www.cricket.com.au/-/media/Players/Men/International/India/ODIWC19/Jasprit-Bumrah-CWC19.ashx?h=548"
+  }, {
+    "id": 10,
+    "name": "Chahal",
+    "email": "rmacintosh9@columbia.edu",
+    "skill":"bowler",
+    "gender": "male",
+    "salary": "23000",
+    "country": "India",
+    "position": "9",
+    "img": "https://www.cricket.com.au/-/media/Players/Men/International/India/ODIWC19/Yuvendra-Chahal-CWC19.ashx?h=548"
+  }, {
+    "id": 11,
+    "name": "Mitchel Stark",
+    "email": "aduggana@businesswire.com",
+    "skill":"bowler",
+    "gender": "male",
+    "salary":"32000",
+    "country": "Australia",
+    "position": "11",
+    "img": "https://cricdaddy.com/wp-content/uploads/2020/11/Mitchell-Starc-CWC19.png"
+  }, {
+    "id": 12,
+    "name": "Kane Williamson",
+    "email": "spestorb@wired.com",
+    "skill":"batsman",
+    "gender": "male",
+    "salary": "35000",
+    "country": "New Zealand",
+    "position": "4",
+    "img": "https://storage.googleapis.com/cricketimages/Players/8C.png"
+  }, {
+    "id": 13,
+    "name": "David Warner",
+    "email": "losgerbyc@huffingtonpost.com",
+    "skill":"batsman",
+    "gender": "male",
+    "salary": "33000",
+    "country": "Australia",
+    "position": "2",
+    "img": "https://cricdaddy.com/wp-content/uploads/2020/11/David-Warner-CWC19.png"
+  }, {
+    "id": 14,
+    "name": "Mashrafee bin Mortoza",
+    "email": "gdunwoodyd@reddit.com",
+    "skill":"bowler",
+    "gender": "male",
+    "salary": "30000",
+    "country": "Bangladesh",
+    "position": "8",
+    "img": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mashrafe-Mortaza-CWC19.ashx"
+  }, {
+    "id": 15,
+    "name": "Ben Stokes",
+    "email": "geldine@blinklist.com",
+    "skill":"Al-rounder",
+    "gender": "male",
+    "salary": "34000",
+    "country": "England",
+    "position": "6",
+    "img": "https://www.cricket.com.au/-/media/Players/Men/International/England/Ben-Stokes-CWC19.ashx"
+  }]

@@ -1,0 +1,32 @@
+.playerCard{
+    display: flex;
+    border: 1px solid rgb(129, 123, 123);
+    width: 430px;
+    border-radius: 5px ;
+    height: 280px;
+}
+.img img{
+    width: auto;
+    height: 250px;
+}
+/* .img{
+    border-right: 1px solid gray;
+} */
+.displayPlayer{
+    float: left;
+    margin: 20px;
+}
+.displayPlayer:hover{
+    /* background-color: lightskyblue; */
+    box-shadow: 5px 10px 18px #888888;
+}
+.playerDetails{
+    text-align: center;
+}
+.button{
+    width: 200px;
+    margin-left: 35px;
+    padding: 8px;
+    cursor: pointer;
+    margin-top: 20px;
+}
